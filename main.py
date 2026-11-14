@@ -6,8 +6,9 @@ set_website_title("Dumbed Down GPS")
 set_site_information(
     author="N. Brothers",
     description="Calculate travel distance and time.",
-    planning=["plan.pdf", "design.pdf"],
-    links=["https://github.com/your-username/your-repository"]
+    sources=[],
+    planning=[],
+    links=[]
 )
 hide_debug_information()
 set_website_framed(False)
